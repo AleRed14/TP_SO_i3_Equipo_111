@@ -73,3 +73,49 @@ Adaptador de Ethernet Conexi¢n de red Bluetooth:
    Sufijo DNS espec¡fico para la conexi¢n. . : 
 
 Hora actual: Sun Nov 17 17:51:48     2024
+
+
+Nombre: Lucia Laura
+Apellido: Pokoik
+
+
+Configuraciï¿½n IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS especï¿½fico para la conexiï¿½n. . :
+   Vï¿½nculo: direcciï¿½n IPv6 local. . . : fe80::7527:5075:105d:1b81%19
+   Direcciï¿½n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Mï¿½scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalï¿½mbrica Wi-Fi:
+
+Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especï¿½fico para la conexiï¿½n. . :
+
+Adaptador de LAN inalï¿½mbrica Conexiï¿½n de ï¿½rea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especï¿½fico para la conexiï¿½n. . :
+
+Adaptador de Ethernet Ethernet:
+
+ Sufijo DNS especï¿½fico para la conexiï¿½n. . : pcnat.telecentro.net.ar
+   Direcciï¿½n IPv6 . . . . . . . . . . : 2800:810:49d:17d3:b932:df38:5385:c995
+   Direcciï¿½n IPv6 temporal. . . . . . : 2800:810:49d:17d3:74ca:7fea:8846:804
+   Direcciï¿½n IPv6 temporal. . . . . . : 2800:810:49d:17d3:8cc8:11e2:c0fc:8f49
+   Direcciï¿½n IPv6 temporal. . . . . . : 2800:810:49d:17d3:b5ad:eac4:4de7:533
+   Direcciï¿½n IPv6 temporal. . . . . . : 2800:810:49d:17d3:c997:76a7:e9b9:41ef
+   Vï¿½nculo: direcciï¿½n IPv6 local. . . : fe80::5af8:8faf:73c2:aaa5%5
+   Direcciï¿½n IPv4. . . . . . . . . . . . . . : 192.168.0.38
+   Mï¿½scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::8e10:d4ff:fe8f:633c%5
+                                       192.168.0.1
+
+Adaptador de Ethernet Conexiï¿½n de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especï¿½fico para la conexiï¿½n. . :
+Hora actual: Sun Nov 17 17:57:43     2024
