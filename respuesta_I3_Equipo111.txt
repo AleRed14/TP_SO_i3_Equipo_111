@@ -16,7 +16,26 @@ c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merg
   4  git push origin main
 Responde GAMMA:
 d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+Las ramas de BETA y GAMMA deben tener los datos actualizados si después de cada modificación, realizaron el push correctamente a su respectiva rama remota. Si BETA y GAMMA actualizaron sus ramas, los cambios que hicieron se reflejarán en el repositorio.
 e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+No saber los comandos, pero se soluciono buscando
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+  1  nano beta.txt
+  2  ifconfig
+  3  ifconfig >> beta.txt
+  4  echo "Hora actual: $(date)" >> beta.txt
+  5  nano beta.txt
+  6  git add beta.txt
+  7  git commit -m "Modificar beta.txt con la información de GAMMA"
+  8  git push origin Perez
+
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+  1  nano beta.txt
+  2  ifconfig
+  3  ifconfig >> beta.txt
+  4  echo "Hora actual: $(date)" >> beta.txt
+  5  nano beta.txt
+  6  git add beta.txt
+  7  git commit -m "Modificar beta.txt con la información de GAMMA"
+  8  git push origin Perez
